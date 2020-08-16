@@ -1,4 +1,4 @@
-# project_demo
+# Flutter Monitoring App
 
 A new Flutter project.
 
